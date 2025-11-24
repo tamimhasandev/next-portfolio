@@ -2,7 +2,7 @@ export default function StackOverflow() {
   return (
     <div>
       <svg
-        className="fill-green-400"
+        className="fill-accent"
         xmlns="http://www.w3.org/2000/svg"
         viewBox="0 0 384 512"
       >
