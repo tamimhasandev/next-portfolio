@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@theme {
+    --color-primary: #1d2a3a;
+    --color-secondary: #0f1722;
+    --color-accent: #5be0b3;
+    --color-text: #e2e8f0;
+    --color-heading: #ffffff;
+    --color-border: #243447;
+}
+
+@keyframes ring-spin {
+    0% {
+        transform: rotate(0);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.animate-ring-spin {
+    animation: 8s linear infinite ring-spin;
+}
