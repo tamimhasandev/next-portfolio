@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Tamim Hasan",
+  title: "Tamim Hasan — Next.js Developer & Web Analytics Specialist",
   description:
     "Tamim Hasan. a React/Next.js Developer and a Web Analytics Expert.",
 };
